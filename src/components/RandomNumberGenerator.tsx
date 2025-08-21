@@ -37,7 +37,7 @@ const RandomNumberGenerator = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-subtle flex items-center justify-center p-4">
+    <div className="min-h-screen bg-white flex items-center justify-center p-4">
       <Card className="w-full max-w-md p-8 shadow-elegant border-0 bg-card/80 backdrop-blur-sm">
         <div className="text-center space-y-8">
           {/* Title */}
